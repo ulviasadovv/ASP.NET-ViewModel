@@ -1,0 +1,1089 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\css\\style.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\js\\template.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\AdminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\css\\Pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\Pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\css\\ion.rangeSlider.min.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\ion.rangeSlider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\css\\magnific-popup.min.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\magnific-popup.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\css\\plugins.min.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\plugins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\css\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\fonts\\Pe-icon-7-stroke.eot",
+      "PackagePath": "staticwebassets\\Assets\\fonts\\Pe-icon-7-stroke.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\fonts\\Pe-icon-7-stroke.svg",
+      "PackagePath": "staticwebassets\\Assets\\fonts\\Pe-icon-7-stroke.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\fonts\\Pe-icon-7-stroke.ttf",
+      "PackagePath": "staticwebassets\\Assets\\fonts\\Pe-icon-7-stroke.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\fonts\\Pe-icon-7-stroke.woff",
+      "PackagePath": "staticwebassets\\Assets\\fonts\\Pe-icon-7-stroke.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\about\\icon\\1.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\about\\icon\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\about\\icon\\2.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\about\\icon\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\about\\team\\1-1-270x270.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\about\\team\\1-1-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\about\\team\\1-2-270x270.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\about\\team\\1-2-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\about\\team\\1-3-270x270.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\about\\team\\1-3-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\about\\team\\1-4-270x270.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\about\\team\\1-4-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\banner\\1-1-770x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\banner\\1-1-770x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\banner\\1-2-370x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\banner\\1-2-370x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\banner\\1-3-370x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\banner\\1-3-370x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\banner\\1-4-770x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\banner\\1-4-770x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\banner\\2-1-570x500.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\banner\\2-1-570x500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\banner\\2-2-570x235.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\banner\\2-2-570x235.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\banner\\2-3-570x235.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\banner\\2-3-570x235.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\banner\\3-1-1208x542.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\banner\\3-1-1208x542.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\banner\\4-1-1170x400.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\banner\\4-1-1170x400.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\blog\\avatar\\1-1-120x120.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\blog\\avatar\\1-1-120x120.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\blog\\avatar\\1-2-120x120.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\blog\\avatar\\1-2-120x120.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\blog\\avatar\\1-3-120x120.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\blog\\avatar\\1-3-120x120.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\blog\\blockquote\\quotation.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\blog\\blockquote\\quotation.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\blog\\large-size\\1-1-768x546.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\blog\\large-size\\1-1-768x546.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\blog\\medium-size\\1-1-310x220.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\blog\\medium-size\\1-1-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\blog\\medium-size\\1-2-310x220.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\blog\\medium-size\\1-2-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\blog\\medium-size\\1-3-310x220.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\blog\\medium-size\\1-3-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\blog\\medium-size\\2-1-370x270.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\blog\\medium-size\\2-1-370x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\blog\\medium-size\\2-2-370x270.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\blog\\medium-size\\2-2-370x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\blog\\small-size\\1-1-70x70.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\blog\\small-size\\1-1-70x70.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\blog\\small-size\\1-2-70x70.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\blog\\small-size\\1-2-70x70.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\blog\\small-size\\1-3-70x70.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\blog\\small-size\\1-3-70x70.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\brand\\1-1.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\brand\\1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\brand\\1-2.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\brand\\1-2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\brand\\1-3.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\brand\\1-3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\brand\\1-4.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\brand\\1-4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\brand\\1-5.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\brand\\1-5.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\brand\\bg\\1-1170x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\brand\\bg\\1-1170x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\breadcrumb\\bg\\1-1-1919x388.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\breadcrumb\\bg\\1-1-1919x388.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\contact\\1-1-370x500.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\contact\\1-1-370x500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\error-404\\404.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\error-404\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\error-404\\bg\\1-1920x886.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\error-404\\bg\\1-1920x886.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\Assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\footer\\bg\\1-1920x465.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\footer\\bg\\1-1920x465.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\logo\\dark.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\logo\\dark.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\newsletter\\1-1920x400.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\newsletter\\1-1920x400.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\offcanvas\\close-white.svg",
+      "PackagePath": "staticwebassets\\Assets\\images\\offcanvas\\close-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\payment\\1.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\payment\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\product\\large-size\\1-1-570x633.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\product\\large-size\\1-1-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\product\\large-size\\1-2-570x633.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\product\\large-size\\1-2-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\product\\large-size\\1-3-570x633.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\product\\large-size\\1-3-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\product\\large-size\\1-4-570x633.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\product\\large-size\\1-4-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\product\\medium-size\\1-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\product\\medium-size\\1-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\product\\medium-size\\1-10-270x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\product\\medium-size\\1-10-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\product\\medium-size\\1-11-270x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\product\\medium-size\\1-11-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\product\\medium-size\\1-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\product\\medium-size\\1-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\product\\medium-size\\1-3-270x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\product\\medium-size\\1-3-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\product\\medium-size\\1-4-270x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\product\\medium-size\\1-4-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\product\\medium-size\\1-5-270x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\product\\medium-size\\1-5-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\product\\medium-size\\1-6-270x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\product\\medium-size\\1-6-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\product\\medium-size\\1-7-270x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\product\\medium-size\\1-7-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\product\\medium-size\\1-8-270x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\product\\medium-size\\1-8-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\product\\medium-size\\1-9-270x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\product\\medium-size\\1-9-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\product\\small-size\\1-1-112x124.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\product\\small-size\\1-1-112x124.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\product\\small-size\\1-2-112x124.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\product\\small-size\\1-2-112x124.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\product\\small-size\\1-3-112x124.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\product\\small-size\\1-3-112x124.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\product\\small-size\\2-1-70x78.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\product\\small-size\\2-1-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\product\\small-size\\2-2-70x78.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\product\\small-size\\2-2-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\product\\small-size\\2-3-70x78.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\product\\small-size\\2-3-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\shape\\1.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\shape\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\shape\\2.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\shape\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\shipping\\icon\\car.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\shipping\\icon\\car.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\shipping\\icon\\card.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\shipping\\icon\\card.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\shipping\\icon\\earphones.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\shipping\\icon\\earphones.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\shipping\\icon\\home.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\shipping\\icon\\home.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\shipping\\icon\\message.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\shipping\\icon\\message.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\shipping\\icon\\phone.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\shipping\\icon\\phone.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\shipping\\icon\\plane.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\shipping\\icon\\plane.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\shipping\\icon\\service.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\shipping\\icon\\service.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\shipping\\icon\\shield.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\shipping\\icon\\shield.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\sidebar\\banner\\1-270x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\sidebar\\banner\\1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\slider\\bg\\1-1.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\slider\\bg\\1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\slider\\bg\\2-1.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\slider\\bg\\2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\slider\\inner-img\\1-1-524x617.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\slider\\inner-img\\1-1-524x617.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\slider\\inner-img\\1-2-524x617.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\slider\\inner-img\\1-2-524x617.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\slider\\slide-img\\2-1-960x741.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\slider\\slide-img\\2-1-960x741.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\slider\\slide-img\\2-2-960x741.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\slider\\slide-img\\2-2-960x741.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\slider\\slide-img\\2-3-960x741.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\slider\\slide-img\\2-3-960x741.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\testimonial\\bg\\1-1-1820x443.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\testimonial\\bg\\1-1-1820x443.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\testimonial\\icon\\quotation.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\testimonial\\icon\\quotation.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\testimonial\\user\\1.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\testimonial\\user\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\testimonial\\user\\2.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\testimonial\\user\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\testimonial\\user\\3.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\testimonial\\user\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1--1rnu4p.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1--1rnu4p.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-1-120x120.webp",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-1-120x120.webp"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-1-1820x443.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-1-1820x443.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-1-310x220.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-1-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-1-524x617.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-1-524x617.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-1-570x633.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-1-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-1-768x546.webp",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-1-768x546.webp"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-1-770x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-1-770x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-1.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-1.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-10-270x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-10-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-11-270x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-11-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-1170x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-1170x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-1920x465.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-1920x465.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-2-120x120.webp",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-2-120x120.webp"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-2-310x220.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-2-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-2-370x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-2-370x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-2-524x617.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-2-524x617.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-2-570x633.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-2-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-2.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-270x300.webp",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-270x300.webp"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-3-120x120.webp",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-3-120x120.webp"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-3-270x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-3-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-3-310x220.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-3-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-3-370x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-3-370x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-3-570x633.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-3-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-3.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-4-270x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-4-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-4-570x633.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-4-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-4-770x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-4-770x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-4.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-5-270x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-5-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-5.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-5.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-6-270x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-6-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-7-270x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-7-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-8-270x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-8-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1-9-270x300.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1-9-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\1.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\2-1-370x270.webp",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\2-1-370x270.webp"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\2-1-70x78.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\2-1-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\2-2-370x270.webp",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\2-2-370x270.webp"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\2-2-70x78.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\2-2-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\2-3-70x78.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\2-3-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\2.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\3.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\car.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\car.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\card.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\card.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\dark.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\dark.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\quotation.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\quotation.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\images\\website-images\\service.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\website-images\\service.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\js\\plugins.min.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\plugins.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\js\\plugins\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\plugins\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\js\\plugins\\jquery.counterup.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\plugins\\jquery.counterup.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\js\\plugins\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\plugins\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\js\\plugins\\jquery.nice-select.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\plugins\\jquery.nice-select.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\js\\plugins\\mailchimp-ajax.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\plugins\\mailchimp-ajax.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\js\\plugins\\parallax.min.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\plugins\\parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\js\\plugins\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\plugins\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\js\\plugins\\tippy.min.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\plugins\\tippy.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\js\\plugins\\wow.min.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\plugins\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\js\\vendor\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\vendor\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\js\\vendor\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\vendor\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\js\\vendor\\jquery-migrate-3.3.2.min.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\vendor\\jquery-migrate-3.3.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\js\\vendor\\jquery.waypoints.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\vendor\\jquery.waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Tasks\\ASP.NET-Task\\ASP.NET-ViewModel\\ASP.NET-FrontToBackTask\\wwwroot\\Assets\\js\\vendor\\modernizr-3.11.2.min.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\vendor\\modernizr-3.11.2.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ASP.NET-FrontToBackTask.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ASP.NET-FrontToBackTask.props",
+      "PackagePath": "build\\ASP.NET-FrontToBackTask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ASP.NET-FrontToBackTask.props",
+      "PackagePath": "buildMultiTargeting\\ASP.NET-FrontToBackTask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ASP.NET-FrontToBackTask.props",
+      "PackagePath": "buildTransitive\\ASP.NET-FrontToBackTask.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
