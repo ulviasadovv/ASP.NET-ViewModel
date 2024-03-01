@@ -1,7 +1,7 @@
-﻿
-@{
-    ViewData["Title"] = "Create";
+﻿@{
+    ViewData["Title"] = "Create Slider";
 }
+@model Slider
 
 <div class="content-wrapper">
           <div class="row">
@@ -15,19 +15,19 @@
                   <form class="forms-sample" method="post">
                     <div class="form-group">
                       <label for="Title">Title</label>
-                            <input type="text" class="form-control" id="Title" name="Title" placeholder="Title">
+                            <input class="form-control" asp-for="Title" placeholder="Title">
                     </div>
                     <div class="form-group">
                       <label for="Description">Description</label>
-                            <input type="email" class="form-control" id="Description" placeholder="Description">
+                            <input class="form-control" asp-for="Description" placeholder="Description">
                     </div>
                     <div class="form-group">
                       <label for="Offer">Offer</label>
-                            <input type="number" class="form-control" id="Offer" placeholder="Offer">
+                            <input class="form-control" asp-for="Offer" placeholder="Offer">
                     </div>
                     <div class="form-group">
                       <label for="Image">Image</label>
-                            <input type="text" class="form-control" id="Image" placeholder="Image">
+                            <input class="form-control" asp-for="Image" placeholder="Image">
                     </div>
                     <div class="form-check form-check-flat form-check-primary">
                       <label class="form-check-label">

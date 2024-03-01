@@ -1,4 +1,5 @@
 ﻿using ASP.NET_FrontToBackTask.Contexts;
+using ASP.NET_FrontToBackTask.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -25,9 +26,12 @@ namespace ASP.NET_FrontToBackTask.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create(string title)
+        public async Task<IActionResult> Create(Slider slider)
         {
-            return Content(title);
+            await _context.Sliders.AddAsync(slider);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction("Index");
         }
     }
 }
